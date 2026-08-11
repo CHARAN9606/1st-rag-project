@@ -1,0 +1,116 @@
+Space Exploration Technologies Corp., doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas.[7] The company operates three divisions: "Space", which conducts more orbital launches annually than any other launch provider, including national programs;[8][9] "Connectivity", which operates Starlink, a communications satellite company; and "Artificial intelligence", which operates Grok, X, and data centers.[2]
+
+The company is credited with advances in rocket propulsion, reusable launch vehicles, human spaceflight, satellite constellation technology. The company's largest customers include NASA, the United States Space Force, and the National Reconnaissance Office. Elon Musk owns 42% of the outstanding shares of SpaceX and controls 85% of the voting power via his super-voting stock.
+
+SpaceX was founded in 2002 by Elon Musk with the goal of reducing spaceflight costs, improving the reliability of access to outer space for ordinary humans, and colonizing Mars. In 2008, after three failed attempts between 2006 and 2008 that almost pushed the company to bankruptcy, SpaceX successfully launched the Falcon 1 into orbit, becoming the first private company to develop and launch a liquid-fueled rocket to orbit. In 2010, the company launched the Falcon 9 launch vehicle and the Dragon 1 spacecraft to fulfill NASA's Commercial Orbital Transportation Services (COTS) contracts for cargo deliveries to the International Space Station (ISS). In 2012, SpaceX began flying Commercial Resupply Services missions to the ISS, becoming the first private company to successfully dock with the station, and started developing technologies to make the Falcon 9 first stage reusable. In 2015, Falcon 9 flight 20 was the first successful landing of an orbital-class rocket's first stage and the company's SES-10 completed the first reflight of an orbital-class booster in 2017. After a decade of development, the Falcon Heavy, which consists of three Falcon 9-derived boosters, made its maiden flight in 2018. As of May 2026, Falcon 9 launches averaged approximately three missions per week, and Falcon boosters had completed nearly 650 landings and reflights.
+
+In 2019, the first operational satellite of the Starlink internet satellite constellation came online, diversifying the revenue of the company. Starlink has generated the bulk of SpaceX's income and led to its Starshield military counterpart. In 2020, SpaceX began to operate its Dragon 2 capsules for NASA and private entity crewed missions. Around this time, SpaceX began building test prototypes for SpaceX Starship, the largest launch vehicle in history. SpaceX plans to adapt it as a human lander for lunar missions under NASA's Artemis program.[10] In 2026, SpaceX acquired Musk's artificial intelligence company xAI, and announced a joint venture with Tesla, Inc. to build Terafab, a large plant for semiconductor device fabrication. The initial public offering of SpaceX on June 12, 2026, which raised $86 billion,[11] was the largest IPO in history and briefly made Musk the first US-dollar trillionaire.[12][13]
+
+History
+Main article: History of SpaceX
+See also: List of Falcon 9 and Falcon Heavy launches
+2001–2002: Founding
+In early 2001, Elon Musk met Robert Zubrin and donated $100,000 to his Mars Society and briefly joined its board of directors.[14]: 30–31  In August 2001, he gave a plenary talk at their fourth convention where he announced Mars Oasis, a project to land a greenhouse and grow plants on Mars.[15][16]
+
+Musk initially attempted to acquire a Dnepr launch vehicle for the project through Russian contacts provided by Jim Cantrell; however, he was unsuccessful.[17]
+
+Musk returned with his team to Moscow, this time bringing Michael D. Griffin, who later became the 11th Administrator of NASA, but found the Russians increasingly unreceptive.[18][19] On the flight home, Musk stated that he could start a company to build the affordable rockets the project required.[19] By applying vertical integration,[18] using inexpensive commercial off-the-shelf components when possible,[19] and adopting the modular approach of modern software engineering, Musk believed SpaceX could significantly cut launch costs.[19]
+
+In early 2002, Elon Musk started to look for staff for his company, soon to be named SpaceX. Musk approached five people for the initial positions, including Griffin, who declined the position of Chief Engineer,[20]: 11  Jim Cantrell and John Garvey (Cantrell and Garvey later founded the company Vector Launch), rocket engineer Tom Mueller, and Chris Thompson.[20][21] SpaceX was first headquartered in a warehouse in El Segundo, California. Early SpaceX employees, such as Tom Mueller (CTO), Gwynne Shotwell (COO), and Chris Thompson (VP of Operations), were previously employed at TRW and Boeing. Musk personally interviewed and approved all of SpaceX's early employees.[20]: 22 
+
+2003–2010: Falcon 1, COTS, and Falcon 9
+Main article: Falcon 1
+
+The first successful Falcon 1 launch in September 2008
+SpaceX developed its first orbital launch vehicle, the Falcon 1, with internal funding.[22][23] The Falcon 1 was an expendable two-stage-to-orbit small-lift launch vehicle. The total development cost of Falcon 1 was approximately $90 million[24] to $100 million.[20]: 215  The Falcon rocket series was named after Star Wars's Millennium Falcon fictional spacecraft.[17]
+
+In 2004, SpaceX protested against NASA to the Government Accountability Office (GAO) because of a sole-source contract awarded to Kistler Aerospace. Before the GAO could respond, NASA withdrew the contract, and formed the Commercial Orbital Transportation Services (COTS) program.[20]: 109–110 [25] In 2005, SpaceX announced plans to pursue a human-rated commercial space program through the end of the decade, a program that would later become the Dragon spacecraft.[26]
+
+SpaceX originally intended to follow its light Falcon 1 launch vehicle with an intermediate capacity vehicle, the Falcon 5.[27] The company instead decided in 2005 to proceed with the development of the Falcon 9, a medium-lift launch vehicle intended to be reusable. Development of the Falcon 9 was accelerated by NASA, which committed to purchasing several commercial flights if specific capabilities were demonstrated. In 2006, the company was selected by NASA and awarded $396 million to provide crew and cargo resupply demonstration contracts to the International Space Station (ISS) under the COTS program.[28] The contract provided development funding for the Dragon spacecraft, Falcon 9, and demonstration launches of Falcon 9 with Dragon.[29]
+
+The first two Falcon 1 launches were purchased by the United States Department of Defense under the DARPA Falcon Project which evaluated new U.S. launch vehicles suitable for use in hypersonic missile delivery for Prompt Global Strike.[23][30][31] The first three launches of the rocket, between 2006 and 2008, all resulted in failures, which almost ended the company. Financing for Tesla Motors had failed, as well,[32] and consequently Tesla, SolarCity, and Musk personally were all nearly bankrupt at the same time.[17][20]: 178–182  Musk was reportedly "waking from nightmares, screaming and in physical pain" because of the stress.[20]: 216 
+
+The financial situation started to turn around with the first successful launch achieved on the fourth attempt on September 28, 2008.[33] Musk split his remaining $30 million between SpaceX and Tesla, and NASA awarded SpaceX a $1.6 billion Commercial Resupply Services (CRS) contract in December, thus financially saving the company.[20]: 217–221  Based on these factors and the further business operations they enabled, the Falcon 1 was soon retired following its second successful, and fifth total, launch in July 2009.[34] This allowed SpaceX to focus company resources on the development of a larger orbital rocket, the Falcon 9.[35] Gwynne Shotwell was also promoted to company president at the time, for her role in successfully negotiating the CRS contract with the NASA Associate Administrator Bill Gerstenmaier.[36][20]: 222 
+
+As part of the COTS contract, the Falcon 9 launched for the first time in June 2010 with the Dragon Spacecraft Qualification Unit, using a mockup of the Dragon spacecraft.
+
+The first operational Dragon spacecraft was launched in December 2010 aboard COTS Demo Flight 1, the Falcon 9's second flight, and safely returned to Earth after two orbits, completing all its mission objectives.[37] By December 2010, the SpaceX production line was manufacturing one Falcon 9 and Dragon every three months.[38]
+
+2011–2018: Falcon 9, Dragon, and NASA contracts
+Duration: 1 minute and 53 seconds.1:53Subtitles available.CC
+Video of the first launch of Falcon 9
+In April 2011, as part of its second-round Commercial Crew Development (CCDev) program, NASA issued a $75 million contract for SpaceX to develop an integrated launch escape system for Dragon in preparation for human-rating it as a crew transport vehicle to the ISS.[39] NASA awarded SpaceX a fixed-price Space Act Agreement (SAA) to produce a detailed design of the crew transportation system in August 2012.[40]
+
+In early 2012, approximately two-thirds of SpaceX stock was owned by Musk[41] and his seventy million shares were then estimated to be worth $875 million on private markets,[42] valuing SpaceX at $1.3 billion.[43] In May 2012, with the Dragon C2+ launch, Dragon became the first commercial spacecraft to deliver cargo to the International Space Station.[44] After the flight, the company private equity valuation nearly doubled to $2.4 billion or $20/share.[45][46] By that time, SpaceX had operated on total funding of approximately $1 billion over its first decade of operation. Of this, private equity provided approximately $200 million, with Musk investing approximately $100 million and other investors having put in about $100 million.[47]
+
+SpaceX's active reusability test program began in late 2012 with testing low-altitude, low-speed aspects of the landing technology.[48] The Falcon 9 prototypes performed vertical takeoffs and landings (VTOL). High-velocity, high-altitude tests of the booster atmospheric return technology began in late 2013.[48]
+
+Commercial launches and rapid growth
+
+Launch of Falcon 9 carrying ORBCOMM OG2-M1, July 2014
+SpaceX launched the first commercial mission for a private customer in 2013. In 2014, SpaceX won nine contracts out of the 20 that were openly competed worldwide.[49] That year Arianespace requested that European governments provide additional subsidies to face the competition from SpaceX.[50][51] Beginning in 2014, SpaceX capabilities and pricing also began to affect the market for launch of U.S. military payloads, which for nearly a decade had been dominated by the large U.S. launch provider United Launch Alliance (ULA).[52] The monopoly had allowed launch costs by the U.S. provider to rise to over $400 million over the years.[53] In September 2014, NASA's Director of Commercial Spaceflight, Kevin Crigler, awarded SpaceX the Commercial Crew Transportation Capability (CCtCap) contract to finalize the development of the Crew Transportation System. The contract included several technical and certification milestones, an uncrewed flight test, a crewed flight test, and six operational missions after certification.[40]
+
+In January 2015, SpaceX raised $1 billion in funding from Google and Fidelity Investments, in exchange for 8.33% of the company, establishing the company valuation at approximately $12 billion.[54][55] The same month SpaceX announced the development of a new satellite constellation, called Starlink, to provide global broadband internet service with 4,000 satellites.[56]
+
+The Falcon 9 had its first major failure in late June 2015, when the seventh ISS resupply mission, CRS-7 exploded two minutes into the flight. The problem was traced to a failed two-foot-long steel strut that held a helium pressure vessel, which broke free due to the force of acceleration. This caused a breach and allowed high-pressure helium to escape into the low-pressure propellant tank, causing the failure.[57]
+
+Reusability milestones
+
+Falcon 9 first stage on an autonomous spaceport drone ship (ASDS) barge after the first successful landing at sea, SpaceX CRS-8 mission
+SpaceX first achieved a successful landing and recovery of a first stage in December 2015 with Falcon 9 Flight 20.[58] In April 2016, the company achieved the first successful landing on the autonomous spaceport drone ship (ASDS) Of Course I Still Love You in the Atlantic Ocean.[59] By October 2016, following the successful landings, SpaceX indicated they were offering their customers a 10% price discount if they choose to fly their payload on a reused Falcon 9 first stage.[60]
+
+A second major rocket failure happened in early September 2016, when a Falcon 9 exploded during a propellant fill operation for a standard pre-launch static fire test. The payload, the AMOS-6 communications satellite valued at $200 million, was destroyed.[61] The explosion was caused by the liquid oxygen that is used as propellant turning so cold that it solidified and ignited with carbon composite helium vessels.[62] Though not considered an unsuccessful flight, the rocket explosion sent the company into a four-month launch hiatus while it worked out what went wrong. SpaceX returned to flight in January 2017.[63]
+
+In March 2017, SpaceX launched a returned Falcon 9 for the SES-10 satellite. This was the first time a re-launch of a payload-carrying orbital rocket went back to space.[64] The first stage was recovered again, also making it the first landing of a reused orbital class rocket.[65]
+
+Leading global commercial launch provider
+In 2017, SpaceX formed a subsidiary, The Boring Company, and began work to construct a short test tunnel on land adjacent to the SpaceX headquarters and manufacturing facility, using a small number of SpaceX employees,[66] which was completed in May 2018,[67] and opened to the public in December 2018.[68] During 2018, The Boring Company was spun out into a separate corporate entity with 6% of the equity going to SpaceX, less than 10% to early employees, and the remainder of the equity to Elon Musk.[68]
+
+In July 2017, the company raised $350 million at a valuation of $21 billion.[69] In 2017, SpaceX achieved a 45% global market share for awarded commercial launch contracts.[70]
+
+By March 2018, SpaceX had more than 100 launches on its manifest representing about $12 billion in contract revenue. The contracts included both commercial and government (NASA/DOD) customers. This made SpaceX the leading global commercial launch provider measured by manifested launches.[71]
+
+2019–2020: Raising capital, Starlink launch, and crewed launches
+In January 2019, SpaceX announced it would lay off 10% of its workforce to help finance the Starlink and Starship projects.[72] The purpose of the Starship vehicle is to enable large-scale transit of humans and cargo to the Moon, Mars, and beyond.[73] SpaceX's Starship is the largest and most powerful rocket ever flown, with a planned payload capacity of 100+ tons.[74][75] Construction of initial prototypes and tests for Starship started in early 2019 in Florida and Texas. All Starship construction and testing moved to the new SpaceX South Texas launch site later that year.
+
+In 2019 SpaceX raised $1.33 billion across three funding rounds.[76] By May 2019, the valuation of SpaceX had risen to $33.3 billion[77] and reached $36 billion by March 2020.[78]
+
+In May 2019, SpaceX launched the first large batch of 60 Starlink satellites, beginning to deploy what would become the world's largest commercial satellite constellation the following year.[79] On August 19, 2020, after a $1.9 billion raise, one of the largest by any private company, valuation increased to $46 billion.[80][81][82]
+
+
+NASA astronauts Douglas Hurley (left) and Robert Behnken (right) wearing custom-fit spacesuits designed by SpaceX.
+In May 2020, SpaceX successfully launched two NASA astronauts (Doug Hurley and Bob Behnken) into orbit on a Crew Dragon spacecraft during Crew Dragon Demo-2, making SpaceX the first private company to send astronauts to the International Space Station and marking the first crewed orbital launch from American soil in 9 years.[83][84] The mission launched from Kennedy Space Center Launch Complex 39A (LC-39A) in Florida.[85]
+
+2021–present
+In February 2021, SpaceX raised an additional $1.61 billion from 99 investors[86] at a per share value of approximately $420,[82] lifting the valuation to ~$74 billion. By 2021, SpaceX had raised more than $6 billion. Most of the capital raised since 2019 was used to support the Starlink satellite constellation and the development and manufacture of Starship.[86] By October 2021, the valuation grew to $100.3 billion.[87]
+
+On April 16, 2021, Starship HLS won a NASA contract for the Artemis program.[10] In 2021, SpaceX entered into agreements with Google Cloud Platform and Microsoft Azure to provide on-ground computer and networking services for Starlink.[88] A funding round in 2022 valued SpaceX at $127 billion.[89]
+
+In July 2021, SpaceX unveiled another drone ship named A Shortfall of Gravitas, first landing CRS-23 on August 29, 2021.[90] Within the first 130 days of 2022, SpaceX launched 18 rockets and returned two crews. On December 13, 2021, Musk announced that the company was starting a carbon dioxide removal program that would convert captured carbon into rocket fuel,[91][92] after he announced a $100 million donation to the X Prize Foundation the previous February to fund a contest to develop the best carbon capture technology.[93][94]
+
+In 2022, most SpaceX launches focused on Starlink, a consumer internet business that sends batches of internet-beaming satellites and now has over 6,000 satellites in orbit.[95] SpaceX launched a rocket approximately every six days in 2022, with 61 launches in total, the most launches ever of a single vehicle type in a single year.[96] All but one (a Falcon Heavy in November) was a Falcon 9.[96] In August 2022, the European Space Agency (ESA) began discussions with SpaceX to substitute for Russian launches, amid the Russian invasion of Ukraine.[97]
+
+In November 2023, SpaceX announced it would acquire its parachute supplier Pioneer Aerospace out of bankruptcy for $2.2 million.[98][99]
+
+In 2024, SpaceX moved its headquarters from Hawthorne, California, to SpaceX Starbase in Brownsville, Texas, ostensibly because California increasingly became a difficult place to operate.[100] The Hawthorne facility continues to support the company's Falcon launch business.[101]
+
+SpaceX's 2024 Polaris Dawn mission featured the first-ever private spacewalk.[102]
+
+By July 2025, as part of a $5 billion equity raise, SpaceX agreed to invest $2 billion in xAI.[103]
+
+Starlink expansion
+On July 16, 2021, SpaceX entered an agreement to acquire Swarm Technologies, a private company building a low Earth orbit satellite constellation for communications with Internet of things (IoT) devices, for $524 million.[104][105]
+
+In December 2022, the U.S. Federal Communications Commission (FCC) approved the launch of up to 7,500 of SpaceX's next-generation satellites in its Starlink internet network.[106]
+
+In September 2025, SpaceX said it would purchase the rights to use some of EchoStar's spectrum for $17 billion in a cash and stock deal. The company said it would use the spectrum as a foundation for Starlink's direct-to-cell business around the globe.[107]
+
+Starlink in the Russo-Ukrainian war
+These paragraphs are an excerpt from Starlink in the Russo-Ukrainian war.edit
+In February 2022, SpaceX activated their Starlink satellite internet service in Ukraine, to replace internet and communication networks degraded or destroyed during the war.[108][109][110] Starlink provides critical service to Ukrainian civilians, government and military.[109][111] It has aided humanitarian relief as well as defense and counterattacks on Russian positions.[112]
+
+Initially, SpaceX provided and funded Starlink services to Ukraine without charge.[113][114][115] As of June 2023 Starlink expenses for Ukraine were covered by the US Department of Defense.[116] As of December 2023, Poland was the largest contributor of terminals.[117] SpaceX did not extend Starlink availability to Russian-occupied areas such as Crimea.[118][112]
+
+In 2022, Elon Musk denied a Ukrainian request to extend Starlink's coverage up to Russian-occupied Crimea during a counterattack on a Crimean port; providing service would have violated US sanctions.[119] Media reports erroneously characterized it as Musk "turning off" Starlink coverage in Crimea.[120][121] In late 2022, SpaceX announced Starshield, a program designed for government customers.[122][123]
+
+The use of Starlink to attack Russian targets was criticized by Russian officials. Russia's military repeatedly tried to disrupt Starlink services.[124][116] Reportedly, the Russian military at one point obtained Starlink terminals through other countries.[125] This unauthorized Starlink use was eventually blocked.[126] In February 2026, Starlink eliminated service to all terminals in Ukraine not on a whitelist, in order to prevent Russia's fraudulent Starlink use. This significantly disrupted Russian military communications, which had come to rely on Starlink.[127]
